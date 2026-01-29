@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (DO NOT COMMIT RAW DATA)
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# OS
+.DS_Store
