@@ -10,8 +10,7 @@ venv/
 .ipynb_checkpoints/
 
 # Data (DO NOT COMMIT RAW DATA)
-data/raw/
-data/processed/
+data/
 
 # Models
 models/
